@@ -9,3 +9,6 @@
   * Run
     * npm install
     * npm start
+    
+    # Model
+  ![project model](model.png)
